@@ -4,7 +4,7 @@ const products = ["Laptop", "Phone" , "Headphones" , "Monitor"  ]
 
 
 
-logFirstProduct = products[0];
+function logFirstProduct (){products[0]};
 
 
 
